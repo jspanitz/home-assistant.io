@@ -105,7 +105,7 @@ YouTube example:
 POST http://YOUR_ROKU_IP:8060/launch/837?contentID=YOUR_YOUTUBE_VIDEOS_CONTENT_ID&MediaType=live
 ```
 
-More details can be found on the [Roku dev pages](https://developer.roku.com/docs/developer-program/discovery/external-control-api.md)
+More details can be found on the [Roku dev pages](https://developer.roku.com/docs/developer-program/debugging/external-control-api.md)
 
 To use this in Home Assistant, for instance in an automation, the format is as follows. Note that `source:` is the appID you discovered in the API call:
 
